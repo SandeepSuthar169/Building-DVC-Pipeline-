@@ -29,7 +29,7 @@ Building-DVC-Pipeline/
 │   ├── processed/          # Processed data (cleaned, transformed)
 │   └── features/           # Feature engineered data
 │
-├── models/                 # Trained models and artifacts
+├── notebook/                 # Trained models and artifacts
 │
 ├── src/                    # Source code
 │   ├── data_preprocessing/ # Data cleaning and preparation scripts

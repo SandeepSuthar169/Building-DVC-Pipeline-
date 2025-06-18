@@ -20,3 +20,4 @@ data_path = os.path.join("data", "processed")
 os.makedirs(data_path)
 train_processed_data.to_csv(os.path.join(data_path, "train_processed.csv"),index=False)
 test_processed_data.to_csv(os.path.join(data_path, "test_processed.csv"),index=False)
+
